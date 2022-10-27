@@ -202,7 +202,21 @@ export class CrearEventoComponent implements OnInit {
    * LLamar a añadir ubicación
    */
   anadirUbicacion() {
-    this.router.navigate(['/formularioUbicacion', 0]);
+    // this.router.navigate(['/formularioUbicacion', 0]);
+    window.onload = function () {
+      var map = L.map('mapid').setView([36.721261, -4.4212655], 13);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      
+      var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
+
+                        
+      marker.bindPopup("<b>Maps Zone Example</b><br> http://search.maps.zone").openPopup();
+      
+    }
   }
 
   /**
