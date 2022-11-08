@@ -20,8 +20,8 @@
           <p *ngIf="!comprobarFecha || !this.validar('fechaHora')" class="error">El evento debe organizarse con 24h de antelación.</p>
         </div>
         <div class="input-container">
+          <strong>Añadir ubicación</strong>
           <div id="mapid"></div>
-          <strong class="add-button" (click)="anadirUbicacion()">Añadir ubicación <i class="bi bi-geo-alt-fill"></i></strong>
           <p *ngIf="!this.validar('idUbicacion')" class="error">Debes elegir una ubicación</p>
         </div>
         <div class="input-container">

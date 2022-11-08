@@ -4,6 +4,7 @@ import {AppService} from "../../services/app.service";
 import {ActivatedRoute, Router} from "@angular/router";
 import {ModalComponent} from "../modal/modal.component";
 import {UsuarioService} from "../../services/usuario.service";
+import * as L from 'leaflet';
 
 @Component({
   selector: 'app-crear-evento',
@@ -41,6 +42,21 @@ export class CrearEventoComponent implements OnInit {
    */
   ngOnInit(): void {
     this.crearFormulario();
+    // inicio de mapa
+    var map = L.map('mapid').setView([36.721261, -4.4212655], 13);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      
+      var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
+
+                        
+      marker.bindPopup("<b>Maps Zone Example</b><br> http://search.maps.zone").openPopup();
+
+      console.log(L.map);
+      
   }
 
   /**
@@ -203,20 +219,18 @@ export class CrearEventoComponent implements OnInit {
    */
   anadirUbicacion() {
     // this.router.navigate(['/formularioUbicacion', 0]);
-    window.onload = function () {
-      var map = L.map('mapid').setView([36.721261, -4.4212655], 13);
+      // var map = L.map('mapid').setView([36.721261, -4.4212655], 13);
 
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      }).addTo(map);
+      // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      //     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      // }).addTo(map);
 
       
-      var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
+      // var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
 
                         
-      marker.bindPopup("<b>Maps Zone Example</b><br> http://search.maps.zone").openPopup();
+      // marker.bindPopup("<b>Maps Zone Example</b><br> http://search.maps.zone").openPopup();
       
-    }
   }
 
   /**
