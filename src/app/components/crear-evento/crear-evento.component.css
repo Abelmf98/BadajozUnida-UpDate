@@ -52,6 +52,13 @@
     width: 300px;
 }
 
+#mapid{
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: .4rem .2rem;
+    height: 200px;
+}
+
 .contenedor-crear form textarea{
     resize: none;
     min-height: 140px;

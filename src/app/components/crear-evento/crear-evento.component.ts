@@ -43,17 +43,17 @@ export class CrearEventoComponent implements OnInit {
   ngOnInit(): void {
     this.crearFormulario();
     // inicio de mapa
-    var map = L.map('mapid').setView([36.721261, -4.4212655], 13);
+    var map = L.map('mapid').setView([38.8778900, -6.9706100], 13);
 
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
           attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
 
       
-      var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
+      // var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
 
                         
-      marker.bindPopup("<b>Maps Zone Example</b><br> http://search.maps.zone").openPopup();
+      // marker.bindPopup("<br> http://search.maps.zone").openPopup();
 
       console.log(L.map);
       
