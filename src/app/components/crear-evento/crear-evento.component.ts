@@ -51,12 +51,32 @@ export class CrearEventoComponent implements OnInit {
 
       
       // var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
-
-                        
-      // marker.bindPopup("<br> http://search.maps.zone").openPopup();
+      var marker: any;
 
       console.log(L.map);
-      
+
+    this.capturarClick(marker, map, this.datos)    
+  }
+  datos = {
+    lat: '',
+    lng: '',
+    nombre: '',
+    apellido: null,
+    mail: ''
+  }
+  capturarClick(marker: any, map: any, datos: any){
+    //destruir el marcador
+    map.on('click', function(ev: any){
+        var latlng = map.mouseEventToLatLng(ev.originalEvent);
+        console.log(latlng.lat  + ', ' + latlng.lng);
+        if (marker !=undefined){
+          map.removeLayer(marker);
+        }
+        marker = L.marker([latlng.lat, latlng.lng]).addTo(map).openPopup();
+
+        datos.lat = latlng.lat
+        datos.lng = latlng.lng
+    });
   }
 
   /**
@@ -217,21 +237,6 @@ export class CrearEventoComponent implements OnInit {
   /**
    * LLamar a añadir ubicación
    */
-  anadirUbicacion() {
-    // this.router.navigate(['/formularioUbicacion', 0]);
-      // var map = L.map('mapid').setView([36.721261, -4.4212655], 13);
-
-      // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      //     attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      // }).addTo(map);
-
-      
-      // var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
-
-                        
-      // marker.bindPopup("<b>Maps Zone Example</b><br> http://search.maps.zone").openPopup();
-      
-  }
 
   /**
    * Comprueba que la fecha sea posterior a mañana.
