@@ -49,24 +49,18 @@ export class CrearEventoComponent implements OnInit {
           attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
       }).addTo(map);
 
-      
-      // var marker = L.marker([38.8778900, -6.9706100]).addTo(map).openPopup();
       var marker: any;
 
       console.log(L.map);
 
-    this.capturarClick(marker, map, this.datos)    
+    this.capturarClick(marker, map)    
   }
-  datos = {
-    lat: '',
-    lng: '',
-    nombre: '',
-    apellido: null,
-    mail: ''
-  }
-  capturarClick(marker: any, map: any, datos: any){
+  /**
+   * Método encargado de capturar el evento del click sobre el mapa del formulario
+   */
+  capturarClick(marker: any, map: any){
     //destruir el marcador
-    map.on('click', function(ev: any){
+    map.on('click', (ev: any) =>{
         var latlng = map.mouseEventToLatLng(ev.originalEvent);
         console.log(latlng.lat  + ', ' + latlng.lng);
         if (marker !=undefined){
@@ -74,8 +68,12 @@ export class CrearEventoComponent implements OnInit {
         }
         marker = L.marker([latlng.lat, latlng.lng]).addTo(map).openPopup();
 
-        datos.lat = latlng.lat
-        datos.lng = latlng.lng
+        this.forma.controls['idUbicacion'].clearValidators();
+        this.forma.controls['idUbicacion'].updateValueAndValidity();
+        setTimeout(()=> {this.forma.value.idUbicacion = [latlng.lat, latlng.lng]}, 1000)
+
+        // 1 latitud 2 longitud
+        // this.forma.value.idUbicacion = [latlng.lat, latlng.lng]
     });
   }
 

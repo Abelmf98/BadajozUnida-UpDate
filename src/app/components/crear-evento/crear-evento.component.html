@@ -21,7 +21,9 @@
         </div>
         <div class="input-container">
           <strong>Añadir ubicación</strong>
-          <div id="mapid"></div>
+          <div id="mapid">
+            <input type="hidden" formControlName="idUbicacion">
+          </div>
           <p *ngIf="!this.validar('idUbicacion')" class="error">Debes elegir una ubicación</p>
         </div>
         <div class="input-container">
