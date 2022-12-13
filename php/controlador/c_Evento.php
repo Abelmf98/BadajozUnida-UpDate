@@ -171,7 +171,7 @@ class C_Evento extends modelo
   {
     $query = "INSERT INTO Evento (titulo, imagen, descripcion, fechaHora, idUbicacion,idUsuario, idSubcategoria)
                 VALUES ('" . $datos['titulo'] . "', '" . $datos['imagen'] . "', '" . $datos['descripcion'] . "', '" . $datos['fechaHora'] . "'
-                , '" . $datos['idUbicacion'] . "', '" . $datos['idUsuario'] . "', '" . $datos['idSubcategoria'] . "');";
+                , " . 1 . ", " . $datos['idUsuario'] . ", '" . $datos['idSubcategoria'] . "');";
     $resul = parent::nonQueryId($query);
     if ($resul) {
       return 1;

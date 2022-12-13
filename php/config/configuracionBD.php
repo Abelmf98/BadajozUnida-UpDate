@@ -1,6 +1,6 @@
 <?php
 
-define("SERVIDOR", "2daw.esvirgua.com");
+define("SERVIDOR", "24.2daw.esvirgua.com");
 define("USUARIO", "user2daw_24");
 define("PASSWORD", "e@-7)EZ-dZC#");
 define("DB", "user2daw_BD1-24");

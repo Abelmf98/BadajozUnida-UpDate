@@ -87,3 +87,9 @@ body{
 .modal-body button:active{
     transform: scale(.98);
 }
+
+/*Estilos del mapa*/
+.leaflet-pane, .leaflet-map-pane, .leaflet-top, .leaflet-left{
+    z-index: 0;
+}
+

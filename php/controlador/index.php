@@ -392,7 +392,7 @@ switch($datos['tipo']){
     break;
 
   case 'contarParticipanteByEvento':
-    $datosArray = $c_Evento->contarParticipanteByEvento($datos);
+    // $datosArray = $c_Evento->contarParticipanteByEvento($datos);
 
     if(isset($datosArray["result"]['error_id'])){
       $responseCode = $datosArray["result"]['error_id'];

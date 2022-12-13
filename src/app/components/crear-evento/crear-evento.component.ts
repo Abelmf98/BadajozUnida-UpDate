@@ -187,7 +187,7 @@ export class CrearEventoComponent implements OnInit {
    * @param forma - Datos del evento
    */
   crearEvento(forma: any) {
-
+    console.log(forma.value);
     let datos = forma.value;
     datos.tipo = 'crearEvento'
     datos.imagen= this.imagen;
