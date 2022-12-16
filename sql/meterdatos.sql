@@ -14,16 +14,16 @@ VALUES ('fútbol', 'partido de fútbol',1),
 ('back', 'curso basico de la parte back',3)
 ;
 
--- Isa1234)
--- Juan1234)
+-- Administrador8*
+-- Miguel1234)
 INSERT INTO Usuario (nombre, apellidos, email, password, fechaNacimiento,tipo)
-VALUES ('Isabel', 'Pérez','isa@gmail.com','d40c12d6df191a844185e1336569806f','1987-01-01', 'a'),
- ('Juan', 'Pérez','juan@gmail.com','c3edace111ea076f93ee278cf30f006c','1987-01-01', 'u');
+VALUES ('Administrador', 'rrrr','administrador@gmail.com','8ee59c44faf8bba1717f0ae5ba4a42bf','1997-06-26', 'a'),
+ ('Miguel', 'Jaque Barbero','migueljb@gmail.com','097303547162c2876947dc4d191bb775','1968-01-01', 'u');
 
 
 INSERT INTO Ubicacion (nombre, direccion)
-VALUES ('la granadilla', 'calle Augusto Vázquez'),
-('la granja del cruce', 'Corte de Pelea');
+VALUES ('La granadilla', 'calle Augusto Vázquez'),
+('La granja del cruce', 'Corte de Pelea');
 
 
 INSERT INTO Evento (titulo, imagen, descripcion, fechaHora, idUbicacion,idUsuario, idSubcategoria)

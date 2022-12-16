@@ -1,7 +1,7 @@
 --Crear base de datos
-/* DROP DATABASE IF EXISTS BadajozUnida;
+DROP DATABASE IF EXISTS BadajozUnida;
 CREATE DATABASE IF NOT EXISTS BadajozUnida DEFAULT CHARACTER SET utf8 COLLATE utf8_spanish_ci;
-USE BadajozUnida; */
+USE BadajozUnida;
 
 --Tabla Usuario
 CREATE TABLE Usuario(
@@ -10,9 +10,9 @@ CREATE TABLE Usuario(
     apellidos varchar(60) NOT NULL,
     email varchar(100) NOT NULL UNIQUE,
     password varchar(255) NOT NULL,
-	fechaNacimiento DATE NOT NULL,
-    tipo char(1) NOT NULL DEFAULT 'u',
-    CONSTRAINT CHK_tipo_Usuario CHECK (tipo='a' OR tipo='u')
+	  fechaNacimiento DATE NOT NULL,
+    tipo char(1) NOT NULL DEFAULT 'u'
+    CHECK (tipo='a' OR tipo='u')
 )
 ENGINE=InnoDB
 DEFAULT CHARSET=utf8
@@ -37,8 +37,10 @@ CREATE TABLE Subcategoria(
 --Tabla Ubiciacion
 CREATE TABLE Ubicacion(
   idUbicacion tinyint unsigned AUTO_INCREMENT NOT NULL PRIMARY KEY,
-  nombre varchar(100) NOT NULL UNIQUE,
-  direccion varchar(200) NOT NULL
+  nombre varchar(100) NOT NULL,
+  direccion varchar(200) NOT NULL,
+  latitud float NOT NULL,
+  longitud float NOT NULL
 );
 
 --Tabla Evento

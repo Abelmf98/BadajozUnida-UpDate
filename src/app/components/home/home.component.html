@@ -5,11 +5,15 @@
         <p>{{evento.descripcion}}</p>
         <div class="info">
             <span><strong>Fecha y hora: </strong> {{evento.fechaHora}}</span>
-            <span><strong>Lugar: </strong> {{evento.nombreUbicacion}} </span>
+            <span><strong>Localización: </strong></span>
+            <span><strong>-Lugar: </strong> {{evento.nombreUbicacion}} </span>
+            <span><strong>-Latitud: </strong> {{evento.latitud}}</span>
+            <span><strong>-Longitud: </strong> {{evento.longitud}}</span>
             <span><strong>Organizador/a: </strong> {{evento.nombreCreador}}</span>
             <span><strong>Nº asistentes: </strong> {{evento.numParticipantes}}</span>
-            <span><strong>{{evento.nombreSubcateogria}}</strong></span>
+            <span><strong>Nombre Subcategoría: </strong>{{evento.nombreSubcateogria}}</span>
         </div>
+        <button id="botonEliminar" *ngIf="comprobarAdministrador()" (click)="preguntaBorrado(evento.idEvento,evento.imagen)">Eliminar</button>
         <button *ngIf="comprobarParticipante(evento.idEvento)"(click)="anadirParticipante(evento.idEvento)">Apuntarme <i class="bi bi-check-circle-fill"></i></button>
         <button *ngIf="!comprobarParticipante(evento.idEvento)"><i class="bi bi-check-circle-fill" style="opacity: 10%; cursor: default;"></i></button>
       <!--<button *ngIf="!comprobarParticipante(evento.idEvento)"><i class="bi bi-dash-circle-fill" style="opacity: 10%"></i></button>-->

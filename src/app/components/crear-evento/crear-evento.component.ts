@@ -21,6 +21,7 @@ export class CrearEventoComponent implements OnInit {
   idSubcategoria:any;
   idUsuario:any;
   imagen:any;
+  mapa!:L.Map;
 
   /**
    * @ignore
@@ -43,17 +44,15 @@ export class CrearEventoComponent implements OnInit {
   ngOnInit(): void {
     this.crearFormulario();
     // inicio de mapa
-    var map = L.map('mapid').setView([38.8778900, -6.9706100], 13);
+    this.mapa = L.map('mapid').setView([38.8778900, -6.9706100], 13);
 
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      }).addTo(map);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© <a href="https://www.openstreetmap.org/copyright%22%3EOpenStreetMap</a> contributors'
+    }).addTo(this.mapa);
 
-      var marker: any;
+    var marker: any;
 
-      console.log(L.map);
-
-    this.capturarClick(marker, map)    
+    console.log(L.map);
   }
   /**
    * Método encargado de capturar el evento del click sobre el mapa del formulario
@@ -68,13 +67,63 @@ export class CrearEventoComponent implements OnInit {
         }
         marker = L.marker([latlng.lat, latlng.lng]).addTo(map).openPopup();
 
-        this.forma.controls['idUbicacion'].clearValidators();
-        this.forma.controls['idUbicacion'].updateValueAndValidity();
-        setTimeout(()=> {this.forma.value.idUbicacion = [latlng.lat, latlng.lng]}, 1000)
+        // this.forma.controls['idUbicacion'].clearValidators();
+        // this.forma.controls['idUbicacion'].updateValueAndValidity();
+        // setTimeout(()=> {this.forma.value.idUbicacion = [latlng.lat, latlng.lng]}, 1000)
+
+        this.forma.patchValue({ //Introduce las coordenadas del mapa en el elemento del grupo del formulario
+          idUbicacion: [latlng.lat, latlng.lng]
+        })
+
+        console.log(this.forma.value);
+        console.log(this.forma);
 
         // 1 latitud 2 longitud
         // this.forma.value.idUbicacion = [latlng.lat, latlng.lng]
     });
+  }
+  /**
+   * Cambia el centro del mapa
+   * @param ubi 
+   * @returns 
+   */
+  cambiarMapa(ubi : any){
+    var id = ubi.target.value;
+    var coordenadas : Array<number> = [];
+
+    console.log(this.ubicaciones);
+    if (id == "") { //previene error en caso de seleccionar ubicacion sin id
+      return;
+    }
+
+    for (let i = 0; i < this.ubicaciones.length; i++) {
+      if (this.ubicaciones[i].idUbicacion == id) {
+        coordenadas = [this.ubicaciones[i].latitud, this.ubicaciones[i].longitud];
+      }
+    }
+
+    this.mapa.remove();
+    this.mapa = L.map('mapid').setView([coordenadas[0], coordenadas[1]], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© <a href="https://www.openstreetmap.org/copyright%22%3EOpenStreetMap</a> contributors'
+    }).addTo(this.mapa);
+
+    var marker: any;
+
+    this.cambiarMarcador(marker, coordenadas);
+  } 
+
+  /**
+   * Cambia el marcador en las coordenadas provistas
+   * @param marker 
+   * @param coordenadas 
+   */
+  cambiarMarcador(marker:any, coordenadas : any){
+    if (marker != undefined) {
+      this.mapa.removeLayer(marker);
+    }
+    marker = L.marker([coordenadas[0], coordenadas[1]]).addTo(this.mapa).openPopup();
   }
 
   /**

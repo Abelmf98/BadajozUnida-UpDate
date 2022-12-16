@@ -1,0 +1,304 @@
+[08-Nov-2022 09:03:54 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[08-Nov-2022 09:04:15 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[08-Nov-2022 09:04:53 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[08-Nov-2022 09:05:03 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[08-Nov-2022 09:05:43 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[08-Nov-2022 09:14:18 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 388
+[08-Nov-2022 10:42:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 266
+[08-Nov-2022 10:42:47 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 266
+[08-Nov-2022 10:42:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 266
+[08-Nov-2022 10:42:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 266
+[08-Nov-2022 10:42:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 266
+[08-Nov-2022 10:46:27 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/636a1deaba870.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:46:35 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:46:41 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:46:49 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:46:56 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:49:43 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:55:09 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 10:55:49 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 424
+[08-Nov-2022 11:02:48 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:02:54 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:03:03 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:08:42 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 11:09:09 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:09:43 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:09:48 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:10:16 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:21:38 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:22:51 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6359252bb8226.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[08-Nov-2022 11:31:44 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 11:31:59 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 11:32:51 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 11:39:22 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 394
+[08-Nov-2022 11:41:55 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 394
+[08-Nov-2022 11:46:20 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 394
+[08-Nov-2022 11:46:50 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 394
+[08-Nov-2022 11:54:55 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 391
+[08-Nov-2022 11:55:05 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/636a438f60667.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 409
+[08-Nov-2022 12:00:57 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 12:02:04 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 12:03:37 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 12:04:54 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 391
+[08-Nov-2022 12:06:40 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 391
+[08-Nov-2022 12:07:04 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 391
+[08-Nov-2022 12:15:14 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 12:25:46 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[08-Nov-2022 12:43:32 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[29-Nov-2022 10:40:53 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[29-Nov-2022 11:08:42 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[29-Nov-2022 11:08:53 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/6385e83a6ed99.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 410
+[29-Nov-2022 11:09:17 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:22:00 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:22:36 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:24:08 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:31:07 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:31:18 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:39:31 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:40:05 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 16:42:17 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 17:16:13 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 17:17:21 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 17:24:50 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 17:26:07 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[05-Dec-2022 17:26:19 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:28:10 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:39:39 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:41:40 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:41:46 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:43:29 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:43:41 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:46:15 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:46:59 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:47:06 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:47:15 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:47:27 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:47:33 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 11:48:09 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 16:49:51 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 16:49:58 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 16:50:13 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 16:50:20 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 16:56:03 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 16:56:15 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:12:30 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:12:53 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:16:54 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:33:40 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:35:15 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:35:43 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:36:28 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:36:56 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:58:53 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 17:59:34 UTC] PHP Warning:  mime_content_type(Esta seria la imagen): failed to open stream: No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 18:13:37 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 18:14:46 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[13-Dec-2022 18:16:36 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 392
+[14-Dec-2022 14:27:15 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[14-Dec-2022 14:30:55 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[14-Dec-2022 14:31:37 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[14-Dec-2022 16:22:30 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[14-Dec-2022 16:43:27 UTC] PHP Warning:  mime_content_type(Esta seria la imagen): failed to open stream: No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 359
+[14-Dec-2022 18:19:40 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 18:19:53 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 18:23:01 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 18:24:30 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 18:26:36 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 18:29:16 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 19:32:46 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 19:33:50 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 19:58:53 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 385
+[14-Dec-2022 21:12:54 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:34:32 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:36:25 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:39:08 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:40:02 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:40:02 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:40:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:41:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:41:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:42:49 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:42:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:43:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:43:42 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:43:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:46:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:47:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:47:43 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:47:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:48:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:49:34 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:49:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:49:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:50:10 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:50:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:50:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:51:01 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:51:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:54:15 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:54:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:55:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:55:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:56:24 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:56:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:57:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:57:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:57:41 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 397
+[14-Dec-2022 21:57:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 21:59:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:00:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:17:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:18:05 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:18:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:22:53 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:22:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:24:50 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:24:50 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:24:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:26:03 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:26:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:28:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:29:13 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:29:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:31:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:31:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:33:46 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:33:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:39:45 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[14-Dec-2022 22:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:40:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:44:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[14-Dec-2022 22:46:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:40:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:40:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:40:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:40:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:40:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:41:28 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[15-Dec-2022 00:41:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:44:50 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[15-Dec-2022 00:44:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:45:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 00:45:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 09:15:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 09:16:21 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[15-Dec-2022 09:16:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 09:19:35 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 420
+[15-Dec-2022 09:19:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:01:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:02:10 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:02:24 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:02:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:07:26 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:07:29 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:07:35 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:07:46 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:07:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:08:24 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:08:28 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:08:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:09:07 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:09:09 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:09:10 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:09:21 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 421
+[15-Dec-2022 11:20:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 208
+[15-Dec-2022 11:23:30 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 11:23:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:24:17 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 11:24:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:17 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 11:25:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:25:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 11:38:41 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 11:38:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 12:00:57 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 12:00:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 12:09:51 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 12:09:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 12:14:10 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 12:14:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:31:09 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 15:31:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:31:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:31:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:49:43 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 15:49:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:50:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:52:07 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 15:52:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 15:56:24 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 417
+[15-Dec-2022 15:56:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 16:03:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 16:04:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 16:09:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 16:11:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/user2daw/public_html/24/php/modelo/modelo.php on line 55
+[15-Dec-2022 17:45:04 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/639a4f4a1aed1.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 749
+[15-Dec-2022 17:52:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 17:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 17:52:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 17:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 17:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 17:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 18:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 18:13:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 18:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 18:16:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 18:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method C_Evento::guardarCoordenadas() in /home/user2daw/public_html/24/php/controlador/index.php:353
+Stack trace:
+#0 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/index.php on line 353
+[15-Dec-2022 18:32:14 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 654
+[15-Dec-2022 18:32:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function C_Evento::realizarRegistroEvento(), 1 passed in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 135 and exactly 2 expected in /home/user2daw/public_html/24/php/controlador/c_Evento.php:310
+Stack trace:
+#0 /home/user2daw/public_html/24/php/controlador/c_Evento.php(135): C_Evento->realizarRegistroEvento(Array)
+#1 /home/user2daw/public_html/24/php/controlador/index.php(354): C_Evento->crearEvento(Array, 1)
+#2 {main}
+  thrown in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 310
+[15-Dec-2022 18:34:30 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 653
+[15-Dec-2022 18:35:19 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 653
+[15-Dec-2022 18:39:16 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 653
+[15-Dec-2022 18:40:22 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 653
+[15-Dec-2022 18:50:22 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/639b43a8e0c84.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 685
+[15-Dec-2022 18:50:30 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/639b43a8e0c84.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 685
+[15-Dec-2022 18:50:35 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/639b43a8e0c84.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 685
+[15-Dec-2022 18:50:54 UTC] PHP Warning:  unlink(/home/user2daw/public_html/24/php/eventos/imagenes/639a4f4a1aed1.): No such file or directory in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 685
+[15-Dec-2022 18:51:39 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 653
+[15-Dec-2022 19:12:07 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 653
+[15-Dec-2022 19:37:08 UTC] PHP Warning:  mime_content_type(): Failed identify data 0:(null) in /home/user2daw/public_html/24/php/controlador/c_Evento.php on line 657

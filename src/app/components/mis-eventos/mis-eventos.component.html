@@ -10,11 +10,14 @@
     <h2>{{eventoCreado.titulo}}</h2>
     <p>{{eventoCreado.descripcion}}</p>
     <div class="info">
-      <span><strong>Fecha y hora: </strong> {{eventoCreado.fechaHora}}</span>
-      <span><strong>Lugar: </strong> {{eventoCreado.nombreUbicacion}}</span>
-      <span><strong>Organizador/a: </strong>{{eventoCreado.nombreCreador}}</span>
-      <span><strong>Nº asistentes: </strong>{{eventoCreado.numParticipantes}}</span>
-      <span><strong>{{eventoCreado.nombreSubcategoria}}</strong></span>
+        <span><strong>Fecha y hora: </strong> {{eventoCreado.fechaHora}}</span>
+        <span><strong>Localización:</strong></span>
+        <span><strong>-Lugar: </strong> {{eventoCreado.nombreUbicacion}}</span>
+        <span><strong>-Latitud: </strong> {{eventoCreado.latitud}}</span>
+        <span><strong>-Longitud: </strong>{{eventoCreado.longitud}}</span>
+        <span><strong>Organizador/a: </strong>{{eventoCreado.nombreCreador}}</span>
+        <span><strong>Nº asistentes: </strong>{{eventoCreado.numParticipantes}}</span>
+        <span><strong>Nombre Subcategoría: </strong>{{eventoCreado.nombreSubcategoria}}</span>
     </div>
         <button (click)="preguntaBorrado(eventoCreado.idEvento,eventoCreado.imagen,1)"><i class="bi bi-trash-fill"></i></button >
     </div>
@@ -29,7 +32,10 @@
         <p>{{eventoParticipo.descripcion}}</p>
         <div class="info">
             <span><strong>Fecha y hora: </strong> {{eventoParticipo.fechaHora}}</span>
-            <span><strong>Lugar: </strong> {{eventoParticipo.nombreUbicacion}}</span>
+            <span><strong>Localización:</strong></span>
+            <span><strong>-Lugar: </strong> {{eventoParticipo.nombreUbicacion}}</span>
+            <span><strong>-Latitud: </strong>{{eventoParticipo.latitud}}</span>
+            <span><strong>-Longitud: </strong>{{eventoParticipo.longitud}}</span>
             <span><strong>Organizador/a: </strong>{{eventoParticipo.nombreCreador}}</span>
             <span><strong>Nº asistentes: </strong>{{eventoParticipo.numParticipantes}}</span>
             <span><strong>{{eventoParticipo.nombreSubcategoria}}</strong></span>

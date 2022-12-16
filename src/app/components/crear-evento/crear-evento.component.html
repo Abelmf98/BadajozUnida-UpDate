@@ -21,9 +21,11 @@
         </div>
         <div class="input-container">
           <strong>Añadir ubicación</strong>
-          <div id="mapid">
-            <input type="hidden" formControlName="idUbicacion">
-          </div>
+          <div id="mapid"></div>
+          <select formControlName="idUbicacion" (change)="cambiarMapa($event)">
+            <option value="" selected="selected">Seleccione una ubicación</option>
+            <option *ngFor="let ubicacion of ubicaciones" value="{{ubicacion.idUbicacion}}">{{ubicacion.nombre}}</option>
+          </select>
           <p *ngIf="!this.validar('idUbicacion')" class="error">Debes elegir una ubicación</p>
         </div>
         <div class="input-container">
